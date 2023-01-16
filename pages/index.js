@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to FunikNet" />
         <p className="description">
-          Hello World
+          Welcome collo
         </p>
       </main>
 
